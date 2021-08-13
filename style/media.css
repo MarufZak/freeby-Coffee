@@ -35,4 +35,10 @@
         width: 40px;
         height: 40px;
     }
+    .header__second.active .header__burger::before {
+        top: 19px;
+    }
+    .header__second.active .header__burger::after {
+        bottom: 19px;
+    }
 }
