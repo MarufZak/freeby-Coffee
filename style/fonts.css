@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'M';
+    src: url('../fonts/Montserrat/Montserrat-Black.ttf');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'M';
+    src: url('../fonts/Montserrat/Montserrat-Bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'N';
+    src: url('../fonts/Nunito/Nunito-Bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'N';
+    src: url('../fonts/Nunito/Nunito-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'N';
+    src: url('../fonts/Nunito/Nunito-SemiBold.ttf.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'N';
+    src: url('../fonts/Nunito/Nunito-LightItalic.ttf.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'I';
+    src: url('../fonts/icons/icons.ttf');
+}
+
+
+.icon-arrow:before {
+    font-family: "I";
+    content: "\e900";
+    color: #f9fbff;
+}
+
+.icon-coins:before {
+    font-family: "I";
+    content: "\e901";
+    color: #415167;
+}
+
+.icon-mountains:before {
+    font-family: "I";
+    content: "\e902";
+    color: #415167;
+}
+
+.icon-shopping-cart:before {
+    font-family: "I";
+    content: "\e903";
+    color: #f9fbff;
+}
